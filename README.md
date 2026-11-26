@@ -44,13 +44,13 @@ The project follows these stages:
 
 ### 1. Class Distribution
 
-![Class Distribution](reports/figures/01_class_distribution.png)
+![Class Distribution](01_class_distribution.png)
 
 Only 0.173% of transactions are fraudulent, indicating severe class imbalance.
 
 ### 2. Transaction Amount Distribution
 
-![Amount Distribution](reports/figures/02_amount_distribution.png)
+![Amount Distribution](02_amount_distribution.png)
 
 | Statistic | Normal | Fraud |
 |---|---:|---:|
@@ -62,7 +62,7 @@ Fraudulent transactions have a higher mean but a lower median amount. This sugge
 
 ### 3. Transaction Time Distribution
 
-![Time Distribution](reports/figures/03_time_distribution.png)
+![Time Distribution](03_time_distribution.png)
 
 | Statistic | Normal | Fraud |
 |---|---:|---:|
